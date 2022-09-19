@@ -2,4 +2,5 @@
 Predicting eye movment with LSTM autoencoder
 
 
-[nectar and maxטמפלייט לפוסטר - קורס מעבדה (1).pdf](https://github.com/maxmelichov/eye-movment-prediction/files/9600691/nectar.and.max.-.1.pdf)
+
+![image](https://user-images.githubusercontent.com/80150303/191064829-2e588a29-9754-47ce-84cb-6c6c4cbe0c13.png)
